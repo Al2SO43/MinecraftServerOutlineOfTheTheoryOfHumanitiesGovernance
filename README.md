@@ -6,3 +6,5 @@
 因非作者本人造成的影响,作者不对其承担任何后果.
 
 本仓库项目遵循[署名—非商业性使用—禁止演绎 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+
+开始阅读:[index.md](./index.md)
