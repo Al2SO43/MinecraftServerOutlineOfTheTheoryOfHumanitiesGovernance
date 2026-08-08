@@ -7,4 +7,6 @@
 
 本仓库项目遵循[署名—非商业性使用—禁止演绎 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
+Github Pages宣传页面:[https://al2so43.github.io/MinecraftServerOutlineOfTheTheoryOfHumanitiesGovernance/](https://al2so43.github.io/MinecraftServerOutlineOfTheTheoryOfHumanitiesGovernance/)
+
 开始阅读:[index.md](./index.md)
