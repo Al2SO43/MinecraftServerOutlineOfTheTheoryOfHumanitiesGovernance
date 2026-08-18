@@ -1,3 +1,4 @@
+简体中文 | English(./README_EN.md)
 # 简介
 这是"我的世界服务器人文治理论纲"的Github发布界面
 
