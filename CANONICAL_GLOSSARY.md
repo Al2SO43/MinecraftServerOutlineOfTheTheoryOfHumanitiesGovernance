@@ -3,6 +3,8 @@
 
 本文涉及原创理论概念,Minecraft中文社区特定术语及跨文化易混淆词汇,在此统一界定,以便检索与引用.
 
+This article involves original theoretical concepts, specific terms from the Chinese Minecraft community, and cross-cultural terms that are easily confused, which are uniformly defined here for the purposes of retrieval and citation.
+
 ### A. 原创理论框架 / Original Theoretical Framework
 
 | 中文术语          | English Term                                  | 定义 / Definition                                                                                                                                                                                                                                                                                                                           |
