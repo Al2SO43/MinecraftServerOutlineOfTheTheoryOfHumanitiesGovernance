@@ -77,3 +77,42 @@ This work may be redistributed in its entirety with proper attribution.
 
 本作品允许在完整保留上下文的前提下自行转载。  
 **转载、引用或参考时，不得进行断章取义、歪曲或任何修改。**
+
+---
+
+## English Translation & Collaboration
+
+This project currently exists in **Chinese (Simplified)** as the authoritative 
+original text. A bilingual canonical terminology glossary is available in 
+[`CANONICAL_GLOSSARY.md`](./CANONICAL_GLOSSARY.md) to support future translations.
+
+**We are looking for volunteer collaborators** to produce a faithful academic 
+English translation of the full text. If you have experience in:
+
+- Academic or technical translation (Chinese ↔ English)
+- Minecraft server administration or game studies
+- Community governance or social science research
+
+...and are interested in contributing, please **open an Issue** or contact the 
+author. The theoretical framework is rigorous and highly interdependent; an 
+accurate translation requires domain familiarity rather than word-for-word 
+conversion.
+
+*Note: The PDF version on OSF/Zenodo contains the complete terminology table 
+and is the current reference for citation.*
+
+---
+
+## 英文翻译与协作
+
+本项目目前以**简体中文**版本作为权威原文。为支持未来的翻译工作，可参考双语规范术语表，详见[`CANONICAL_GLOSSARY.md`](./CANONICAL_GLOSSARY.md)。
+
+**我们正在寻找志愿协作者**，以产出完整文本的学术英文忠实翻译。如果您在以下方面有经验：
+
+- 学术或技术翻译（中文 ↔ 英文）
+- 《我的世界》服务器管理或游戏研究
+- 社区治理或社会科学研究
+
+...并有兴趣参与，请**提出 Issue**或联系作者。本书的理论框架严谨且高度相互依赖；准确翻译需要领域知识，而不仅是逐字转换。
+
+*注意：OSF/Zenodo 上的 PDF 版本包含完整的术语表，并为当前引用的参考文献。*
