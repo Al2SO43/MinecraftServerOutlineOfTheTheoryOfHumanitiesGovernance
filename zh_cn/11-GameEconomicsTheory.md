@@ -1,7 +1,7 @@
 ---
 prev:
   text: '10.狭义代差论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/10-NarrowSenseOfSubstitutionDifference'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/10-NarrowSenseGenerationalGap'
 next:
   text: '12.玩法论'
   link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/12-Gameplay'

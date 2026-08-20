@@ -1,7 +1,7 @@
 ---
 prev:
   text: '14.本质淡化论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/14-EssentiallyDiluted'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/14-EssentialDilution'
 next:
   text: '16.周期性与相似性定理论'
   link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/16-TheoremOfPeriodicityAndSimilarity'

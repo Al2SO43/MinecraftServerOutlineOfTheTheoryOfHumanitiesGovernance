@@ -1,10 +1,10 @@
 ---
 prev:
   text: '07.等级对立原理论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/07-PrincipleOfLevelOpposition'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/07-PrincipleOfHierarchicalOpposition'
 next:
   text: '09.广义代差论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/09-GeneralizedTimeDifference'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/09-GeneralizedGenerationalGap'
 ---
 ## 08.玩家群体化过程论
 ### 引言

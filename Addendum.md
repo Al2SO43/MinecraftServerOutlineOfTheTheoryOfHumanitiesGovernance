@@ -1,0 +1,25 @@
+## 附注 / Addendum
+
+### 一、写作经验来源 / Sources of Empirical Observation
+
+本文的理论框架与核心结论来源于作者自2018年起对Minecraft相关技术的学习，以及自2021年1月起累计五年以上的服务器开服实践与治理观察。在此期间，作者先后运营多个对外开放的服务器，亲历了从开服、繁荣、衰败到重开的完整周期，并在反复实践中逐步识别出服务器人文治理的结构性规律。除个人开服经验外，作者自2022年起系统性地考察了大量第三方服务器的公开运营资料、社区舆论及玩家行为样本，所涉服务器类型涵盖公益服、商业服、无规则服、战争服及小游戏服等多种形态。本文中所有案例分析、周期规律总结及类型学建构，均建立在此长期参与式观察（participant observation）与多源样本比对的基础之上。
+
+The theoretical framework and core conclusions of this work derive from the author's study of Minecraft-related technologies since 2018, and from over five years of server operation practice and governance observation since January 2021. During this period, the author administered multiple open servers, personally experiencing complete cycles from launch, prosperity, decline, and reset, gradually identifying structural laws of humanistic server governance through repeated practice. In addition to personal server experience, since 2022 the author has systematically examined publicly available operational data, community discourse, and player behavior samples from a large number of third-party servers, covering diverse types including non-profit servers, commercial servers, no-rules servers, war servers, and mini-game servers. All case analyses, periodic law summaries, and typological constructions in this text are grounded in this long-term participant observation and multi-source sample comparison.
+
+### 二、一般性理论资源说明 / General Theoretical Resources
+
+本文在分析过程中运用了马克思主义哲学的基本原理（包括辩证唯物主义与历史唯物主义）、形式逻辑学的基本规律与推理方法（包括同一律、矛盾律、排中律、三段论、归纳与演绎等），以及部分法学概念（如大陆法系、英美法系、判例法、习惯法等）与经济学概念（如比较优势、供需关系、经济周期、通货膨胀等）。上述理论资源均属于公共领域的通识知识或基础学科原理，系作者通过通识教育、公开教材及公开网络资料习得，并在服务器治理语境中进行了独立的本土化改造与应用。由于这些内容为学科基础性共识，本文不逐一标注其原始出处，亦不作为本文的原创理论主张提出。
+
+This work employs fundamental principles of Marxist philosophy (including dialectical and historical materialism), basic laws and reasoning methods of formal logic (including the laws of identity, contradiction, and excluded middle, as well as syllogistic, inductive, and deductive reasoning), and selected legal concepts (e.g., civil law system, common law system, case law, customary law) and economic concepts (e.g., comparative advantage, supply and demand, economic cycle, inflation). These theoretical resources belong to general knowledge or foundational disciplinary principles in the public domain, acquired by the author through general education, public textbooks, and open online materials, and have been independently adapted and applied within the context of server governance. As these contents represent basic disciplinary consensus, this work does not annotate their original sources one by one, nor are they presented as original theoretical claims of this text.
+
+### 三、研究范围与适用性说明 / Scope and Applicability
+
+本文的理论建构与经验总结主要基于中国大陆地区Minecraft服务器社区在特定历史阶段（约2021—2026年）的治理实践。文中总结的周期性规律、玩家行为模式、社区黑话语义及治理困境，深受该特定文化语境、玩家人口结构（以学生群体为主）及网络基础设施环境的影响。因此，本文结论不具有无条件的跨文化、跨平台或跨时代普适性。不同国家或地区、不同游戏版本、不同商业模式或不同文化背景下的服务器社区，其治理逻辑与玩家行为可能存在显著差异。读者在借鉴本文框架时，应结合具体情境进行批判性调整，而非机械照搬。
+
+The theoretical construction and empirical summaries of this work are primarily based on the governance practice of Minecraft server communities in mainland China during a specific historical period (approximately 2021–2026). The periodic laws, player behavior patterns, community slang semantics, and governance dilemmas summarized herein are deeply shaped by this specific cultural context, player demographic structure (predominantly students), and network infrastructure environment. Consequently, the conclusions of this work do not possess unconditional cross-cultural, cross-platform, or cross-era universality. Server communities in different countries or regions, game versions, business models, or cultural backgrounds may exhibit significant differences in governance logic and player behavior. Readers should make critical adaptations based on concrete contexts when drawing on this framework, rather than applying it mechanically.
+
+### 四、利益冲突与研究伦理声明 / Conflict of Interest and Research Ethics
+
+作者声明与本研究不存在任何商业利益冲突。本文不涉及对任何具体服务器的商业评价，亦不针对任何具体个人、已知组织或可被识别的实体。文中对"圈钱服""神权服"等服务器类型的批判，以及对特定治理模式（如特权化管理、单一服主独断等）的分析，均属于基于类型学（typology）的学术抽象，旨在揭示特定治理结构的运行逻辑与结构性缺陷，而非对任何真实运营主体的价值评判或人身攻击。文中所举示例均为经过抽象化、复合化处理的理想类型，不对应任何真实服务器的具体事件或具体人员。
+
+The author declares no commercial conflicts of interest with this study. This work does not constitute a commercial evaluation of any specific server, nor does it target any particular individual, known organization, or identifiable entity. Critiques of server types such as "quanqian servers" (cash-grab servers) or "shenquan servers" (theocratic-admin servers), as well as analyses of specific governance models (e.g., privileged administration, single-owner autocracy), represent academic abstractions based on typology, aiming to reveal the operational logic and structural deficiencies of certain governance structures, rather than value judgments of any real operational entity. All examples provided are abstracted, composite ideal types and do not correspond to specific events or individuals of any real-world server.

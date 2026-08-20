@@ -4,7 +4,7 @@ prev:
   link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/08-ProcessOfPlayerCollectivization'
 next:
   text: '10.狭义代差论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/10-NarrowSenseOfSubstitutionDifference'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/10-NarrowSenseGenerationalGap'
 ---
 ## 09.广义代差论
 ### 从引言到代差的划分

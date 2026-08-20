@@ -4,7 +4,7 @@ prev:
   link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/12-Gameplay'
 next:
   text: '14.本质淡化论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/14-EssentiallyDiluted'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/14-EssentialDilution'
 ---
 ## 13.发展论
 ### 引言与发展的广泛性

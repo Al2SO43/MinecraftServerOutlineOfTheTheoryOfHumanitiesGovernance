@@ -1,7 +1,7 @@
 ---
 prev:
   text: '09.广义代差论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/09-GeneralizedTimeDifference'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/09-GeneralizedGenerationalGap'
 next:
   text: '11.游戏经济学理论'
   link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/11-GameEconomicsTheory'

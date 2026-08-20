@@ -4,7 +4,7 @@ prev:
   link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/03-ManagementSystem'
 next:
   text: '05.管玩矛盾论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/05-ManagePlayContradictions'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/05-AdminPlayerStructuralContradiction'
 ---
 ## 04.人文规则论
 ### 引言

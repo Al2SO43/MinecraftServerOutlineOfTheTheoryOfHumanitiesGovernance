@@ -1,10 +1,10 @@
 ---
 prev:
   text: '05.管玩矛盾论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/05-ManagePlayContradictions'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/05-AdminPlayerStructuralContradiction'
 next:
   text: '07.等级对立原理论'
-  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/07-PrincipleOfLevelOpposition'
+  link: '/ServerOutlineOfTheTheoryOfHumanitiesGovernance/07-PrincipleOfHierarchicalOpposition'
 ---
 ## 06.玩家矛盾分析论
 ### 引言
