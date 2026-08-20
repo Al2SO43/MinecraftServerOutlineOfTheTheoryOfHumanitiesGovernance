@@ -14,7 +14,7 @@ A systematic theoretical framework for the governance of Minecraft multiplayer s
 
 | Platform | Link |
 |----------|------|
-| **Zenodo (Primary Archive & DOI)** | [10.5281/zenodo.22007590](https://doi.org/10.5281/zenodo.22007590) |
+| **Zenodo (Primary Archive & DOI)** | [10.5281/zenodo.22007589](https://doi.org/10.5281/zenodo.22007589) |
 | **OSF (Open Science Framework)** | [https://osf.io/jmc48/overview?view_only=6e45f185d2ab4fc5a58fb999ced1d3c7] |
 
 ### Start Reading
@@ -52,7 +52,7 @@ This work may be redistributed in its entirety with proper attribution.
 
 | 平台 | 链接 |
 |------|------|
-| **Zenodo（主存档 / DOI）** | [10.5281/zenodo.22007590](https://doi.org/10.5281/zenodo.22007590) |
+| **Zenodo（主存档 / DOI）** | [10.5281/zenodo.22007589](https://doi.org/10.5281/zenodo.22007589) |
 | **OSF（开放科学框架）** | [https://osf.io/jmc48/overview?view_only=6e45f185d2ab4fc5a58fb999ced1d3c7] |
 
 ### 开始阅读
