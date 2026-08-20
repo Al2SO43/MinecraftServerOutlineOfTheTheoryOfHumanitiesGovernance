@@ -19,8 +19,9 @@ A systematic theoretical framework for the governance of Minecraft multiplayer s
 
 ### Start Reading
 
-- 📖 **[Start Reading](./zh_cn/index.md)**
+- 📖 **[Start Reading(Github)](./zh_cn/index.md)**
 - 🌐 **[GitHub Pages](https://al2so43.github.io/MinecraftServerOutlineOfTheTheoryOfHumanitiesGovernance/)** *(Promotional Page)*
+- 📖 **[Start Reading(My Cloudflare Pages Website)](https://al2so43-mc-text.pages.dev/)**
 
 ### License
 
@@ -56,8 +57,9 @@ This work may be redistributed in its entirety with proper attribution.
 
 ### 开始阅读
 
-- 📖 **[开始阅读](./zh_cn/index.md)**
+- 📖 **[开始阅读(Github)](./zh_cn/index.md)**
 - 🌐 **[GitHub Pages 宣传界面](https://al2so43.github.io/MinecraftServerOutlineOfTheTheoryOfHumanitiesGovernance/)**
+- 📖 **[开始阅读(我的Cloudflare Pages网站)](https://al2so43-mc-text.pages.dev/)**
 
 ### 许可协议
 
