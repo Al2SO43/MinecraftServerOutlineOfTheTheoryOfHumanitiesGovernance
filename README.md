@@ -15,7 +15,7 @@ A systematic theoretical framework for the governance of Minecraft multiplayer s
 | Platform | Link |
 |----------|------|
 | **Zenodo (Primary Archive & DOI)** | [10.5281/zenodo.22007589](https://doi.org/10.5281/zenodo.22007589) |
-| **OSF (Open Science Framework)** | [https://osf.io/jmc48/overview?view_only=6e45f185d2ab4fc5a58fb999ced1d3c7] |
+
 
 ### Start Reading
 
@@ -53,7 +53,7 @@ This work may be redistributed in its entirety with proper attribution.
 | 平台 | 链接 |
 |------|------|
 | **Zenodo（主存档 / DOI）** | [10.5281/zenodo.22007589](https://doi.org/10.5281/zenodo.22007589) |
-| **OSF（开放科学框架）** | [https://osf.io/jmc48/overview?view_only=6e45f185d2ab4fc5a58fb999ced1d3c7] |
+
 
 ### 开始阅读
 
@@ -100,7 +100,7 @@ author. The theoretical framework is rigorous and highly interdependent; an
 accurate translation requires domain familiarity rather than word-for-word 
 conversion.
 
-*Note: The PDF version on OSF/Zenodo contains the complete terminology table 
+*Note: The PDF version on Zenodo contains the complete terminology table 
 and is the current reference for citation.*
 
 ---
@@ -117,4 +117,4 @@ and is the current reference for citation.*
 
 ...并有兴趣参与，请**提出 Issue**或联系作者。本书的理论框架严谨且高度相互依赖；准确翻译需要领域知识，而不仅是逐字转换。
 
-*注意：OSF/Zenodo 上的 PDF 版本包含完整的术语表，并为当前引用的参考文献。*
+*注意：Zenodo 上的 PDF 版本包含完整的术语表，并为当前引用的参考文献。*
